@@ -1,0 +1,160 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.title {
+  text-align: center;
+
+  padding-top: 60px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 130%;
+}
+.Imac {
+  width: 290px;
+}
+.row {
+  margin-top: 80px;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 37px;
+  gap: 27px;
+}
+.card {
+  width: 350px;
+  padding: 30px;
+  box-shadow: 0px 10px 40px rgba(126, 155, 189, 0.3);
+  transition: 1s;
+  border: 4.5px solid rgba(255, 0, 0, 0);
+}
+.product {
+  padding: 5px 15px;
+  text-decoration: none;
+  color: #7e9bbd;
+  border: 3px solid rgba(126, 155, 189, 0.3);
+  border-radius: 6px;
+}
+.price {
+  color: #7e9bbd;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 120%;
+}
+.card-end {
+  display: flex;
+  justify-content: space-between;
+}
+.card-title {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 120%;
+}
+.card-title-add {
+  margin-top: 77px;
+}
+.card:hover {
+  border: 4.5px solid #ff5c5c;
+  border-radius: 15px;
+}
+.btn {
+  padding: 5px 10px;
+  text-decoration: none;
+  color: black;
+  background-color: #eaeff2;
+  border-radius: 3px;
+  transition: 0.5s;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+}
+.footer {
+  margin-top: 20px;
+
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.btn:focus {
+  background-color: #8bb1df;
+}
+
+/* Product */
+.product-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding-top: 60px;
+}
+.IMac {
+  width: 530px;
+}
+
+.product-title {
+  margin-bottom: 20px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+}
+
+.bottom {
+  margin-bottom: 40px;
+}
+
+.product-info-name {
+  margin-top: 40px;
+  border-bottom: 1px solid black;
+  width: 72%;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 170%;
+}
+
+.basket {
+  padding: 13px 20px;
+
+  text-decoration: none;
+  margin-bottom: 40px;
+  background-color: black;
+  color: white;
+  border-radius: 6px;
+  transition: 0.5s;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+.basket:hover {
+  background-color: grey;
+}
+.title-product {
+  padding-top: 90px;
+  padding-bottom: 46px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 130%;
+}
