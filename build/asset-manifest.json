@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.398952a0.css",
+    "main.js": "/static/js/main.6889f119.js",
+    "static/media/imac.jpg": "/static/media/imac.42ac7ceefd0b39b6f9b4.jpg",
+    "static/media/macBook.jpg": "/static/media/macBook.bf7264cfa595ee379e2d.jpg",
+    "static/media/iphone.jpg": "/static/media/iphone.d7d51c48029971a898a9.jpg",
+    "static/media/mac-mini.jpg": "/static/media/mac-mini.a74c3d69b33ba03769d6.jpg",
+    "static/media/kalonka.jpg": "/static/media/kalonka.7e8bc02939aa3adbf267.jpg",
+    "index.html": "/index.html",
+    "main.398952a0.css.map": "/static/css/main.398952a0.css.map",
+    "main.6889f119.js.map": "/static/js/main.6889f119.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.398952a0.css",
+    "static/js/main.6889f119.js"
+  ]
+}
